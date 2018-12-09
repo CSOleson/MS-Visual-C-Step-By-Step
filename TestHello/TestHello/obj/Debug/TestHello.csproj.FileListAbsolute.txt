@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\bin\Debug\TestHello.exe
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\bin\Debug\TestHello.pdb
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\obj\Debug\TestHello.exe
+C:\Users\chris\OneDrive\Documents\MS-Visual-C-Step-By-Step\TestHello\TestHello\obj\Debug\TestHello.pdb
