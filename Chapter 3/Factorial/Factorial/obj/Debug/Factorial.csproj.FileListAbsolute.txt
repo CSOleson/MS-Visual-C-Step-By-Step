@@ -1,0 +1,6 @@
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\Factorial\Factorial\bin\Debug\DailyRate.exe.config
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\Factorial\Factorial\bin\Debug\DailyRate.exe
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\Factorial\Factorial\bin\Debug\DailyRate.pdb
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\Factorial\Factorial\obj\Debug\DailyRate.exe
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\Factorial\Factorial\obj\Debug\DailyRate.pdb

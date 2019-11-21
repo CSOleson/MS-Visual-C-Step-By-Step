@@ -1,0 +1,6 @@
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe.config
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.exe
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\bin\Debug\DailyRate.pdb
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.csprojAssemblyReference.cache
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.exe
+C:\Repos\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 3\DailyRate Using Optional Parameters\DailyRate\obj\Debug\DailyRate.pdb
