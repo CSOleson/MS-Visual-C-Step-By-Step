@@ -50,8 +50,14 @@ namespace WhileStatement
 
         private void displayData(TextReader reader)
         {
-            // TODO: add while loop here
-
+            source.Text = "";
+            string line = reader.ReadLine();
+            while (line != null)
+            {
+                source.Text += line + '\n';
+                line = reader.ReadLine();
+            }
+            reader.Dispose();
         }
     }
 }

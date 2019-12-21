@@ -1,0 +1,1 @@
+C:\Repos\MS-Visual-C-Step-By-Step\Chapter 4\Selection\Selection\Selection.csproj;x86

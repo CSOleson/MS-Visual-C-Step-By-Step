@@ -1,0 +1,1 @@
+C:\Repos\MS-Visual-C-Step-By-Step\Chapter 5\WhileStatement\WhileStatement\WhileStatement.csproj;x86
